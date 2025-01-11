@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1736577039|1416676132';
+const CACHE_VERSION = '1736579332|3710217066';
 /** @type {string} */
 const CACHE_PREFIX = 'Cosmic Catch-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
